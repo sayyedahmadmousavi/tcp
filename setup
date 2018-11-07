@@ -5,5 +5,5 @@ pip3 install --upgrade telethon
 git clone https://github.com/LonamiWebs/Telethon.git
 cd Telethon/
 pip3 install pyaes rsa
+pip install --upgrade pip
 python3 setup.py gen
-cd ..
